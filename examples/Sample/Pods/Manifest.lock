@@ -1,0 +1,16 @@
+PODS:
+  - FileBrowser (1.0.0)
+
+DEPENDENCIES:
+  - FileBrowser (from `../..`)
+
+EXTERNAL SOURCES:
+  FileBrowser:
+    :path: "../.."
+
+SPEC CHECKSUMS:
+  FileBrowser: 893fa5306d0aa7267c98d27e4a12d252605549a7
+
+PODFILE CHECKSUM: aaefb425330b5b14baa22345634307ee30f2826a
+
+COCOAPODS: 1.5.3
